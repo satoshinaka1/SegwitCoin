@@ -1,0 +1,2 @@
+# SegwitCoin
+SegwitCoin Core 
